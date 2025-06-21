@@ -3,5 +3,33 @@ body{
 }
 .header_div{
     display: flex;
-    j
+    justify-content: space-between;
+}
+.header_div_img{
+    width: 50px ;
+    height: 50px ;
+}
+.header_div_input{
+    margin: 0;
+    width: 150px ;
+    height: 20px ;
+}
+.header_div_img_2{
+    margin: 0;
+    width: 40px ;
+    height: 20px ;
+}
+.header_div_2{
+    background-image: url(images/CoverStory_robots.jpg);
+    height: 1000px;
+    width: 100%;
+}
+.header_div_3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    color: rgb(255, 255, 255);
+}
+.header_div_3_p{
+    margin-top: 500px;
 }

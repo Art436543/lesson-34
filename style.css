@@ -47,6 +47,16 @@ footer{
     flex-direction: column;
     align-items: flex-end;
 }
+.main_div_4{
+    display: flex;
+}
+.main_div_4_1{
+    background-color: rgb(255, 255, 255);
+}
+.main_div_4_1_img{
+    width: 200px;
+    height: 200px;
+}
 .main_div_3{
     display: flex;
     justify-content: space-between;
@@ -55,4 +65,4 @@ footer{
 .footer_div{
     display: flex;
     justify-content: space-around;
-} 
+}

@@ -1,6 +1,9 @@
 body{
     margin: 0;
 }
+footer{
+    background-color: rgb(119, 179, 59);
+}
 .header_div{
     display: flex;
     justify-content: space-between;
@@ -32,4 +35,11 @@ body{
 }
 .header_div_3_p{
     margin-top: 500px;
+}
+.footer_div{
+    display: flex;
+    justify-content: space-around;
+}
+.footer_div_2{
+
 }
